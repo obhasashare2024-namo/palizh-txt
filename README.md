@@ -11,12 +11,13 @@
 ## ⚡ 經典隨身單文件下載直通 (Direct Offline Downloads)
 
 > [!TIP]
-> **隨身離線閱讀首選**：無需安裝任何 App 或依賴，下載後使用手機瀏覽器、平板或電腦直接點開即可離線通讀全藏 6,979 篇經文！
+> **隨身離線閱讀首選**：無需安裝任何外掛，下載後使用手機瀏覽器、各類電子書閱讀器直接點開，即可無網通讀全藏 6,979 篇經文！
 
-| 典藏格式 | 檔案體積 | 特性亮點 | 官方一鍵直接下載鏈接 |
+| 典藏格式 | 檔案體積 | 特性亮點與適用載體 | 官方一鍵直接下載鏈接 |
 | :--- | :---: | :--- | :--- |
+| **📱 全藏標準 EPUB 電子書** | **4.48 MB** | **【極度推薦】** 業界標準 EPUB 3.0。手機內建圖書/微信讀書/掌閱/KOReader/Kindle 秒開，章節目錄排版極佳，體積極度輕巧。 | 📥 **[直接下載 palizh_complete_canon.epub](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_canon.epub)** |
 | **🌐 全藏全量 HTML 閱讀版** | **20.79 MB** | 內嵌全藏 6,979 篇經文數據庫，毫秒級即時全文檢索、抽屜目錄導航、深淺禪風雙主題、前後篇無縫切換、字體大小縮放。 | 📥 **[直接下載 palizh_complete_reader.html](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_reader.html)** |
-| **📑 全藏標準 MHT 歸檔版** | **28.09 MB** | 單一網頁 MIME 歸檔格式 (MHTML, RFC 2557)。標準封裝，適合各類電子書閱讀器、Edge/Chrome、長久安全典藏。 | 📥 **[直接下載 palizh_complete_reader.mht](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_reader.mht)** |
+| **📑 全藏標準 MHT 歸檔版** | **28.09 MB** | 單一網頁 MIME 歸檔格式 (MHTML, RFC 2557)。標準封裝，適合各類專用閱讀器、Edge/IE、長久安全典藏。 | 📥 **[直接下載 palizh_complete_reader.mht](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_reader.mht)** |
 
 📦 **所有發布資產亦已同步歸檔於 Releases 專區**：[GitHub Releases v1.0.0 頁面直達](https://github.com/obhasashare2024-namo/palizh-txt/releases/tag/v1.0.0)
 
