@@ -1,0 +1,4 @@
+此目錄（an007.080）屬於 增支部（Aṅguttara Nikāya），
+請參閱上層容器：an
+（絕對路徑：/mnt/R2D/pali/txt/an/an/an.zh.txt）
+CBETA 切割粒度為整部，逐經精細版待後續處理。

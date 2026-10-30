@@ -1,0 +1,4 @@
+此目錄（patthana022.001）屬於 發趣論（Paṭṭhāna），
+請參閱上層容器：pa/pa/pa.zh.txt
+（絕對路徑：/mnt/R2D/pali/txt/pa/pa/pa.zh.txt）
+CBETA 切割粒度為整集，逐長老/逐品精細版待後續處理。

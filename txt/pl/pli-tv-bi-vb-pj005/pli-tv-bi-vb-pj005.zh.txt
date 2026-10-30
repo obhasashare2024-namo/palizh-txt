@@ -1,0 +1,4 @@
+此目錄（pli-tv-bi-vb-pj005）的中文為整集形式，
+請參閱上層容器：pl/pl/pl.zh.txt
+（絕對路徑：/mnt/R2D/pali/txt/pl/pl/pl.zh.txt）
+CBETA 切割粒度為集次，逐品精細版待後續處理。
