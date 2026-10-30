@@ -4,6 +4,21 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/STUB%20Status-0%20STUB%20(100%25%20Verified)-success.svg)]()
 [![Corpus](https://img.shields.io/badge/Total%20Sutras-6%2C979%20Sutras-blue.svg)]()
+[![Release](https://img.shields.io/badge/Release-v1.0.0%20Latest-orange.svg)](https://github.com/obhasashare2024-namo/palizh-txt/releases/tag/v1.0.0)
+
+---
+
+## ⚡ 經典隨身單文件下載直通 (Direct Offline Downloads)
+
+> [!TIP]
+> **隨身離線閱讀首選**：無需安裝任何 App 或依賴，下載後使用手機瀏覽器、平板或電腦直接點開即可離線通讀全藏 6,979 篇經文！
+
+| 典藏格式 | 檔案體積 | 特性亮點 | 官方一鍵直接下載鏈接 |
+| :--- | :---: | :--- | :--- |
+| **🌐 全藏全量 HTML 閱讀版** | **20.79 MB** | 內嵌全藏 6,979 篇經文數據庫，毫秒級即時全文檢索、抽屜目錄導航、深淺禪風雙主題、前後篇無縫切換、字體大小縮放。 | 📥 **[直接下載 palizh_complete_reader.html](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_reader.html)** |
+| **📑 全藏標準 MHT 歸檔版** | **28.09 MB** | 單一網頁 MIME 歸檔格式 (MHTML, RFC 2557)。標準封裝，適合各類電子書閱讀器、Edge/Chrome、長久安全典藏。 | 📥 **[直接下載 palizh_complete_reader.mht](https://github.com/obhasashare2024-namo/palizh-txt/releases/download/v1.0.0/palizh_complete_reader.mht)** |
+
+📦 **所有發布資產亦已同步歸檔於 Releases 專區**：[GitHub Releases v1.0.0 頁面直達](https://github.com/obhasashare2024-namo/palizh-txt/releases/tag/v1.0.0)
 
 ---
 
@@ -13,20 +28,7 @@
 
 歷代南傳大藏經漢譯本在流傳與排版過程中，大量殘留了巴利語特有的縮編符號（`Peyyāla`，如「……（中略）……」、「……」、「…」），導致讀者在閱讀關鍵之因緣論、戒相分別、阿羅漢成就偈與菩提分法時，頻繁遭遇語義斷崖。
 
-**`palizh-txt` 專案以十二分精神與嚴格文獻學標準，完成了南傳大藏經（經藏、律藏、論藏三大藏共 30 個部派、近 7,000 篇經文正本）之全域語義無損擴增、0 STUB 徹底清零、中式引號「」與單引號『』100% 自然平衡閉合，以及底本印刷雜質（CBETA/大正藏比對註等）之純淨剝除，打造出當代最適宜機器學習語料訓練、數字化檢索與大眾隨身閱讀的現代白話善本。**
-
----
-
-## 📱 手機離線隨身閱讀版 (Mobile Reader)
-
-本專案附帶專屬設計的極致輕量單文件閱讀器：
-- **檔案**：[`palizh_mobile_reader.html`](palizh_mobile_reader.html)（或根目錄 [`index.html`](index.html)）
-- **體積**：僅約 **74 KB**，零外部 CDN 依賴，無網環境秒開！
-- **特性**：
-  - 📱 **手機極致適配**：響應式排版、支援雙指/按鈕字體大小無級縮放。
-  - 🌓 **禪風雙主題**：宣紙暖黃底色 / 深色夜間沉浸模式一鍵切換。
-  - 🌟 **核心聖典精讀**：內建《轉法輪經》、《大念處經》、《吉祥經》、《寶經》、《慈經》、《無我相經》等根本聖典。
-  - 📚 **全藏三藏全景導航**：可隨時按部派與卷帙查閱全藏 7,000 篇目錄與架構。
+**`palizh-txt` 專案以十二分精神與嚴格文獻學標準，完成了南傳大藏經（經藏、律藏、論藏三大藏共 30 個部派、6,979 篇經文正本）之全域語義無損擴增、0 STUB 徹底清零、中式引號「」與單引號『』100% 自然平衡閉合，以及底本印刷雜質（CBETA/大正藏比對註等）之純淨剝除，打造出當代最適宜機器學習語料訓練、數字化檢索與大眾隨身閱讀的現代白話善本。**
 
 ---
 
@@ -37,15 +39,14 @@
 | **經藏 (Sutta)** | `dn` | 長部 (Dīgha Nikāya) | 34 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `mn` | 中部 (Majjhima Nikāya) | 152 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `sn` | 相應部 (Saṁyutta Nikāya) | 1,419 經 | ✅ 100% 0 STUB |
-| **經藏 (Sutta)** | `an` | 增支部 (Aṅguttara Nikāya) | 1,413 經 | ✅ 100% 0 STUB |
+| **經藏 (Sutta)** | `an` | 增支部 (Aṅguttara Nikāya) | 1,414 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `snp` | 小部·經集 (Sutta Nipāta) | 73 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `ud` | 小部·自說經 (Udāna) | 67 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `it` | 小部·如是語 (Itivuttaka) | 112 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `ja` | 小部·本生經 (Jātaka) | 547 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `mi` | 小部·彌蘭王問 (Milindapañha) | 248 經 | ✅ 100% 0 STUB |
-| **經藏 (Sutta)** | `th` | 小部·長老偈/譬喻 (Theragāthā/Apadāna) | 1,528 經 | ✅ 100% 0 STUB |
+| **經藏 (Sutta)** | `th` | 小部·長老偈/譬喻 (Theragāthā/Apadāna) | 1,529 經 | ✅ 100% 0 STUB |
 | **經藏 (Sutta)** | `mnd` | 小部·大義釋 (Mahāniddesa) | 16 篇 | ✅ 100% 0 STUB |
-| **經藏 (Sutta)** | 其餘小部 | 小誦、法句、長老尼偈、佛種姓、所行藏等 | 200+ 篇 | ✅ 100% 0 STUB |
 | **論藏 (Abhidhamma)** | `pa` | 發趣論 (Patthāna) | 728 篇 | ✅ 100% 0 STUB |
 | **論藏 (Abhidhamma)** | `kv` | 論事 (Kathāvatthu) | 218 篇 | ✅ 100% 0 STUB |
 | **律藏 (Vinaya)** | `pl` | 律部分別與犍度 (Vinaya Piṭaka) | 422 篇 | ✅ 100% 0 STUB |
